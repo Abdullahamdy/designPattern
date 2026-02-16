@@ -13,6 +13,7 @@ class AppServiceProvider extends ServiceProvider
      */
     public function register(): void
     {
+        //test featured
         $this->app->singleton(NewsFetcherPool::class);
     }
 
