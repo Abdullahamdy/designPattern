@@ -21,3 +21,4 @@ jobs:
             cd ~/public_html/designPattern
             git reset --hard
             git pull origin main
+  
